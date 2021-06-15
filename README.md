@@ -3,6 +3,7 @@ Java program for TCP client server
 
 
 This Program handles multiple client connections at a time.
+Client can save text data on server and can their read data from server.
 
 **How to run**
 
